@@ -1,0 +1,5 @@
+[Unit]
+Description=Switch to Weston and launch monitor
+
+[Service]
+ExecStart=/home/board/mux_to_weston.sh

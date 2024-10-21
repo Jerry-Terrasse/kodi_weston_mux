@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Multiplexer for Kodi and Weston
+Comment=This session will start Kodi by default, and switch to Weston on SIGUSR2, then back to Kodi on SIGUSR1
+Exec=/home/board/mux_start.sh
+Type=Application
+Keywords=audio;video;media;center;tv;movies;series;songs;remote;
+Icon=kodi
